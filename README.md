@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer And Youtuber</h3>
-<img aligh="right" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/60e3cab9-41fe-4a1a-ad42-30f03a2e2399" />
+<img aligh="right" width="400" alt="Coder" src="https://github.com/user-attachments/assets/60e3cab9-41fe-4a1a-ad42-30f03a2e2399" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-coder07&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-coder07" /> </p>
 
 - 🌱 I’m currently learning **Javascript and React Native**
